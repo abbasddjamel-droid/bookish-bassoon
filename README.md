@@ -1,20 +1,24 @@
-# Music Video AI Studio (Prototype)
+# Hi, I’m Abbas 👋
 
-واجهة عربية تجريبية تعمل داخل المتصفح:
-- موسيقى إلكترونية بسيطة يتم توليدها محليًا باستخدام Web Audio API.
-- مشهد متحرك مع مؤثر بصري يشبه موجات الصوت.
-- تسجيل المشهد والصوت معًا وتنزيله كملف WebM.
-- مدد تسجيل 10 أو 20 أو 30 أو 60 دقيقة.
+I’m interested in building creative experiences that bring sound and visuals to the web.
 
-## التشغيل
-افتح `index.html` في متصفح حديث مثل Chrome. لا توجد حاجة إلى API key.
+## Skills and interests
 
-## النشر على GitHub Pages
-1. ارفع `index.html` و`README.md` إلى مستودع GitHub.
-2. افتح Settings ثم Pages.
-3. في Build and deployment اختر Deploy from a branch.
-4. اختر `main` و`/(root)` ثم Save.
-5. انتظر ظهور رابط الموقع.
+- **Web Audio API**
+- **Browser-based media**
+- **GitHub Pages**
 
-## حدود مهمة
-هذه نسخة أولية وليست مولّدًا متقدمًا للموسيقى أو فيديو سينمائي واقعي من النص. الموسيقى مؤلّفة آليًا من نغمات بسيطة داخل المتصفح. التصدير غالبًا WebM لا MP4. التسجيل الطويل يتطلب إبقاء الصفحة مفتوحة وقد يتوقف على الهاتف بسبب توفير الطاقة. تجنّب قفل الشاشة أثناء التسجيل.
+## Featured project
+
+### [Music Video AI Studio (Prototype)](https://github.com/abbasddjamel-droid/bookish-bassoon)
+
+An Arabic-language browser prototype for generating simple electronic music, animating visuals, and recording the scene and audio as a WebM video.
+
+- Generates music locally with the Web Audio API
+- Combines animated visuals and audio recording
+- Runs in a modern browser without an API key
+- Can be published with GitHub Pages
+
+## Currently exploring
+
+Creative browser-based tools and new ways to combine audio, visuals, and interactive web experiences.
